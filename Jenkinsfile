@@ -1,4 +1,4 @@
-node('BuildServer'){
+node('master'){
 
     checkout scm
    
