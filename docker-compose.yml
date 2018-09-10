@@ -3,7 +3,7 @@ version: '2'
 services:
   master:
     image: devopsevd/oss-jmeter-master
-    container_name: master
+    container_name: master1
     tty: true
   slave:
     image: devopsevd/oss-jmeter-slave
